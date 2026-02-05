@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir streamlit pandas plotly
 EXPOSE 8501
 
 # Comando para rodar o app
-CMD ["streamlit", "run", "seu_arquivo.py", "--server.port=8501", "--server.headless=true"]
+CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.headless=true"]
