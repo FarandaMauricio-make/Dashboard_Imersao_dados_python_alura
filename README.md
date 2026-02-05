@@ -26,9 +26,4 @@ O objetivo é criar um **dashboard interativo** para explorar informações sobr
 - Tabela detalhada com os dados filtrados.
 
 ---
-
-## 📦 Requisitos
-- Python 3.9+
-- Bibliotecas:
-  ```bash
-  pip install streamlit pandas plotly
+Você pode acessar o dashboard através do seguinte link: [Dashboard_Salarios_na Area_de_Dados](https://dashboard-imersao-dados-python-alura.onrender.com)
