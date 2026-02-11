@@ -26,4 +26,4 @@ O objetivo é criar um **dashboard interativo** para explorar informações sobr
 - Tabela detalhada com os dados filtrados.
 
 ---
-Você pode acessar o dashboard através do seguinte link: [Dashboard_Salarios_na Area_de_Dados](https://dashboard-imersao-dados-python-alura.onrender.com)
+Você pode acessar o dashboard através do seguinte link: [Análise de Salários na Área de Dados](https://dashboard-imersao-dados-python-alura.onrender.com)
